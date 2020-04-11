@@ -1,0 +1,12 @@
+/* numpre-hack css */
+
+body {
+  width: 100%;
+  color: rgb(48, 48, 48);
+  background-color: rgba(209, 209, 209, 0.774);
+  text-align: center;
+}
+
+.content {
+  max-width: 800px;
+}
